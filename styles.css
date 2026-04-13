@@ -399,7 +399,7 @@ body {
 /* Scroll Indicator */
 .scroll-indicator {
     position: absolute;
-    bottom: -3rem;
+    bottom: -6rem;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
